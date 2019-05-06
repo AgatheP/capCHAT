@@ -1,1 +1,2 @@
 # capCHAT
+Java projet
